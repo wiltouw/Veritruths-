@@ -14,7 +14,7 @@ This project began as part of a research assistantship at Rutgers University foc
 ## 🎥 Demo
 
 ![VeriTruths in Action](VeriUI.gif)
-
+![VeriTruths in Action](VeriUI2.gif)
 
 ## 🔍 So what does it do?
 
