@@ -11,6 +11,10 @@ A Chrome extension that leverages ChatGPT and Gemini APIs to analyze news articl
 This project began as part of a research assistantship at Rutgers University focused on using AI for digital media analysis and public awareness, and I am still improving it as new models are on the horizon.
 
 ---
+## 🎥 Demo
+
+![VeriTruths in Action](VeriUI.gif)
+
 
 ## 🔍 So what does it do?
 
