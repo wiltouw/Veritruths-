@@ -16,6 +16,11 @@ This project began as part of a research assistantship at Rutgers University foc
 ![VeriTruths in Action](VeriUI.gif)
 ![VeriTruths in Action](VeriUI2.gif)
 ![VeriTruths in Action](VeriUI3.gif)
+
+Now with Dark Mode 
+
+![VeriTruths in Action](VeriUI-DarkMode.gif)
+
 ## 🔍 So what does it do?
 
 - 🧾 **Bias Detection**  
