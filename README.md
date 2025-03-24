@@ -39,6 +39,17 @@ Now with Dark Mode
 
 ## What did I use?
 
+Front-End:
+Built using HTML, CSS, and vanilla JavaScript
+utilized Netlify as well.
+
+Back-End:
+Utilizing Python-based bsckend using Flask, ensuring secure user data processing. 
+SQLite / PostgreSQL for persistent storage / anonymity 
+Privacy-First design approach, utilizing IP hashing/salting
+Render / Vercel deployment (currently on Netlify) 
+
+
 - **Chrome Extension API**
 - **OpenAI ChatGPT API**
 - **Gemini API (Google)**
