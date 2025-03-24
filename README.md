@@ -4,14 +4,14 @@ A Chrome extension that leverages ChatGPT and Gemini APIs to analyze news articl
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 **VeriTruths** is a chrome app designed to enhance media literacy by providing real-time, AI-powered insights while users browse the web. Whether it’s a political article, opinion piece, or breaking news, VeriTruths gives readers a deeper look behind the content, who wrote it, and the crdibility.
 
 This project began as part of a research assistantship at Rutgers University focused on using AI for digital media analysis and public awareness, and I am still improving it as new models are on the horizon.
 
 ---
-## 🎥 Demo
+## Demo
 
 ![VeriTruths in Action](VeriUI.gif)
 ![VeriTruths in Action](VeriUI2.gif)
@@ -21,23 +21,23 @@ Now with Dark Mode
 
 ![VeriTruths in Action](VeriUI-DarkMode.gif)
 
-## 🔍 So what does it do?
+## So what does it do?
 
-- 🧾 **Bias Detection**  
+- **Bias Detection**  
   Highlights political, corporate, or personal bias using large language model analysis.
 
-- 🧠 **Misinformation Flagging**  
+- **Misinformation Flagging**  
   Checks content against trusted databases and logical inconsistencies.
 
-- 🖋️ **Author Insight**  
+- **Author Insight**  
   Analyzes credibility of the writer based on past content, affiliations, and source quality.
 
-- ⚡ **Real-Time Feedback**  
+- **Real-Time Feedback**  
   Results are processed and displayed (usually quickly) while browsing any major news site.
 
 ---
 
-## 🛠️ What did I use?
+## What did I use?
 
 - **Chrome Extension API**
 - **OpenAI ChatGPT API**
@@ -48,7 +48,7 @@ Now with Dark Mode
 
 ---
 
-## 🧩 Wait so how?
+## Wait so how?
 
 1. User visits a news article.
 2. The extension extracts the visible content and metadata.
@@ -58,7 +58,7 @@ Now with Dark Mode
 
 ---
 
-## 📈 Where am I at?
+## Where am I at?
 - ✅ Core functionality working (bias/misinformation detection)
 - ⚙️ UX/UI refinement in progress
 - 🔒 Codebase private for now :)
@@ -66,7 +66,7 @@ Now with Dark Mode
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Seb**  
 Email: [wft6@rutgers.edu](mailto:wft6@rutgers.edu)  
