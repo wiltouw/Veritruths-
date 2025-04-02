@@ -10,7 +10,7 @@ A Chrome extension that leverages ChatGPT and Gemini APIs to analyze news articl
 
 This project began as part of a research assistantship at Rutgers University focused on using AI for digital media analysis and public awareness, and I am still improving it as new models are on the horizon.
 
-VeriTruths will now be student oriented, with new functionality aimed at assisting students with everything from research to reading. Beta coming in April om the Chrome Web Store! 
+VeriTruths will now be student oriented, with new functionality aimed at assisting students with everything from research to reading. Beta coming in April on the Chrome Web Store! 
 
 ---
 ## Demo - General UI, NOT the Student version. 
