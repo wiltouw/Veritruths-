@@ -1,4 +1,4 @@
-#UPDATE APRIL 2
+UPDATE APRIL 2:
 I'm excited to announce that I will be adopting OpenAI's Model-Computer Protocol (MCP) as the foundational communication framework for the Veritruths Chrome extension. MCP provides a universal, structured approach to enabling robust and standardized interactions between our AI components and external resources, significantly streamlining our engineering process. More details soon!
 
 # VeriTruths
